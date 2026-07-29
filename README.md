@@ -13,5 +13,12 @@ This project demonstrates basic front‑end development skills including DOM man
 
 ---
 
-## Project Structure
+## Technologies Used
+
+- HTML5 for structure
+
+- CSS3 for styling
+
+- JavaScript (ES6) for functionality
+
 
